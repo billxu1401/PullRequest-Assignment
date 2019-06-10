@@ -22,7 +22,7 @@ public class Exercises
 	public static int evenFibSum()
 	{
 		int first=1, second=1, sum = 0;
-		while(second<4000000)
+		while(second<4000000 && first<400000)
 		{
 			first=first+second;
 			if(first%2==0)
