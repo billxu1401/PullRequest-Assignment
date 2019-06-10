@@ -5,6 +5,7 @@
  * 	- Right click on the src folder and create a new package.
  * 	- Name the package "lastName_firstName", replacing lastName with your last name and firstName with your first name.
  * 	- Inside that package, create a new class "Exercises".
+ *    - YOU SHOULD ONLY BE MAKING CHANGES IN THIS PACKAGE
  * 	- Create a javadoc comment at the top with the '@author' tag with your name next to it (do this for all classes you create)
  * 	- Create the following static methods:
  * 		- int threeAndFive() : Returns the sum of all the multiples of 3 or 5 below 1000
